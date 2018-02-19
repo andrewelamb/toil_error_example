@@ -1,6 +1,3 @@
 VCF_FILE: 
     "path": "sample.vcf"
     "class": "File"
-REF_FILE: 
-  "class": "File"
-  "path": "Homo_sapiens.GRCh38.dna.primary_assembly.fa"
